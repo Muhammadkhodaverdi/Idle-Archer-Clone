@@ -1,0 +1,42 @@
+[
+    {
+        "wawe" : 1,
+        "duration" : 30
+    },
+    {
+        "wawe" : 2,
+        "duration" : 35
+    },
+    {
+        "wawe" : 3,
+        "duration" : 40
+    },
+    {
+        "wawe" : 4,
+        "duration" : 45
+    },
+    {
+        "wawe" : 5,
+        "duration" : 50
+    },
+    {
+        "wawe" : 6,
+        "duration" : 55
+    },
+    {
+        "wawe" : 7,
+        "duration" : 60
+    },
+    {
+        "wawe" : 8,
+        "duration" : 65
+    },
+    {
+        "wawe" : 9,
+        "duration" : 70
+    },
+    {
+        "wawe" : 10,
+        "duration" : 75
+    }
+]

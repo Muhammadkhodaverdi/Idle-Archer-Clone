@@ -1,0 +1,54 @@
+{
+    "userSubCategory":
+    [
+        {
+            "category" : "Attacking",
+            "subCategory" : "Damage",
+            "level" : 1
+        },
+        {
+            "category" : "Attacking",
+            "subCategory" : "AttackSpeed",
+            "level" : 1
+        },
+        {
+            "category" : "Attacking",
+            "subCategory" : "AttackRange",
+            "level" : 1
+        },
+        {
+            "category" : "Healing",
+            "subCategory" : "Health",
+            "level" : 1
+        },
+        {
+            "category" : "Healing",
+            "subCategory" : "HealthRegenerationSpeed",
+            "level" : 1
+        },
+        {
+            "category" : "Healing",
+            "subCategory" : "Mana",
+            "level" : 1
+        },
+        {
+            "category" : "Healing",
+            "subCategory" : "ManaRegenerationSpeed",
+            "level" : 1
+        },
+        {
+            "category" : "Collecting",
+            "subCategory" : "ExperiencePerEnemy",
+            "level" : 1
+        },
+        {
+            "category" : "Collecting",
+            "subCategory" : "GoldPerEnemy",
+            "level" : 1
+        }
+    ],
+    "Experience" : 0,
+    "inGameGold" : 0,
+    "gold" : 500
+}
+

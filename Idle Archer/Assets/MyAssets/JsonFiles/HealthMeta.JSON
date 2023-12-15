@@ -1,0 +1,75 @@
+{
+    "Category" : "Health",
+    "healthList":
+    [
+       {
+          "level" : 1,
+          "health" : 50,
+          "upgradeCost" : 50
+       },
+       {
+          "level" : 2,
+          "health" : 70,
+          "upgradeCost" : 100
+       },
+       {
+          "level" : 3,
+          "health" : 85,
+          "upgradeCost" : 150
+       }
+    ],
+    "healthRegenerationList":
+    [
+       {
+          "level" : 1,
+          "healthRegeneration" : 5,
+          "upgradeCost" : 50
+       },
+       {
+          "level" : 2,
+          "healthRegeneration" : 6,
+          "upgradeCost" : 100
+       },
+       {
+          "level" : 3,
+          "healthRegeneration" : 6.5,
+          "upgradeCost" : 150
+       }
+    ],
+    "manaList":
+    [
+       {
+          "level" : 1,
+          "mana" : 50,
+          "upgradeCost" : 50
+       },
+       {
+          "level" : 2,
+          "mana" : 70,
+          "upgradeCost" : 100
+       },
+       {
+          "level" : 3,
+          "mana" : 85,
+          "upgradeCost" : 150
+       }
+    ],
+    "manaRegenerationList":
+    [
+       {
+          "level" : 1,
+          "manaRegeneration" : 5,
+          "upgradeCost" : 50
+       },
+       {
+          "level" : 2,
+          "manaRegeneration" : 6,
+          "upgradeCost" : 100
+       },
+       {
+          "level" : 3,
+          "manaRegeneration" : 6.5,
+          "upgradeCost" : 150
+       }
+    ]
+ }

@@ -1,0 +1,72 @@
+{
+    "Category" : "Attack",
+    "damageList":
+    [
+     {
+        "level" : 1,
+        "damage" : 20,
+        "upgradeCost":50
+     },
+     {
+        "level" : 2,
+        "damage" : 25,
+        "upgradeCost":100
+     },
+     {
+        "level" : 3,
+        "damage" : 35,
+        "upgradeCost":120
+     },
+     {
+        "level" : 4,
+        "damage" : 50,
+        "upgradeCost":160
+     }
+    ],
+    "attackSpeedList":
+    [
+     {
+        "level" : 1,
+        "attackSpeed" : 2,
+        "upgradeCost":50
+     },
+     {
+        "level" : 2,
+        "attackSpeed" : 1.8,
+        "upgradeCost":100
+     },
+     {
+        "level" : 3,
+        "attackSpeed" : 1.5,
+        "upgradeCost":120
+     },
+     {
+        "level" : 4,
+        "attackSpeed" : 1,
+        "upgradeCost":160
+     }
+    ],
+    "rangeList":
+    [
+     {
+        "level" : 1,
+        "range" : 10,
+        "upgradeCost" : 50
+     },
+     {
+        "level" : 2,
+        "range" : 12,
+        "upgradeCost" : 100
+     },
+     {
+        "level" : 3,
+        "range" : 15,
+        "upgradeCost" : 120
+     },
+     {
+        "level" : 4,
+        "range" : 17,
+        "upgradeCost" : 160
+     }
+    ]
+  }

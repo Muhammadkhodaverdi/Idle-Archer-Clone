@@ -1,0 +1,39 @@
+{
+    "Category" : "Experience",
+    "experiencePerEnemyList":
+    [
+       {
+          "level" : 1,
+          "experiencePerEnemy" : 1.2,
+          "upgradeCost" : 50
+       },
+       {
+          "level" : 2,
+          "experiencePerEnemy" : 1.4,
+          "upgradeCost" : 60
+       },
+       {
+          "level" : 1,
+          "experiencePerEnemy" : 1.6,
+          "upgradeCost" : 80
+       }
+    ],
+    "coinPerEnemyList":
+    [
+       {
+          "level" : 1,
+          "coinPerEnemy" : 1.2,
+          "upgradeCost" : 50
+       },
+       {
+          "level" : 2,
+          "coinPerEnemy" : 1.4,
+          "upgradeCost" : 60
+       },
+       {
+          "level" : 1,
+          "coinPerEnemy" : 1.6,
+          "upgradeCost" : 80
+       }
+    ]
+ }

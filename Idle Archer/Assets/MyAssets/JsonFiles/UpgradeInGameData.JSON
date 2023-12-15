@@ -1,0 +1,74 @@
+[
+    {
+        "upgradeTimes" : 0,
+        "upToNextLevelCost" : 10
+    },
+    {
+        "upgradeTimes" : 1,
+        "upToNextLevelCost" : 25
+    },
+    {
+        "upgradeTimes" : 2,
+        "upToNextLevelCost" : 40
+    },
+    {
+        "upgradeTimes" : 3,
+        "upToNextLevelCost" : 45
+    },
+    {
+        "upgradeTimes" : 4,
+        "upToNextLevelCost" : 50
+    },
+    {
+        "upgradeTimes" : 5,
+        "upToNextLevelCost" : 55
+    },
+    {
+        "upgradeTimes" : 6,
+        "upToNextLevelCost" : 60
+    },
+    {
+        "upgradeTimes" : 7,
+        "upToNextLevelCost" : 65
+    },
+    {
+        "upgradeTimes" : 8,
+        "upToNextLevelCost" : 70
+    },
+    {
+        "upgradeTimes" : 9,
+        "upToNextLevelCost" : 75
+    },
+    {
+        "upgradeTimes" : 10,
+        "upToNextLevelCost" : 80
+    },
+    {
+        "upgradeTimes" : 11,
+        "upToNextLevelCost" : 85
+    },
+    {
+        "upgradeTimes" : 12,
+        "upToNextLevelCost" : 90
+    },
+    {
+        "upgradeTimes" : 13,
+        "upToNextLevelCost" : 95
+    },
+    {
+        "upgradeTimes" : 14,
+        "upToNextLevelCost" : 100
+    },
+    {
+        "upgradeTimes" : 15,
+        "upToNextLevelCost" : 115
+    },
+    {
+        "upgradeTimes" : 16,
+        "upToNextLevelCost" : 120
+    },
+    {
+        "upgradeTimes" : 17,
+        "upToNextLevelCost" : 125
+    }
+]
